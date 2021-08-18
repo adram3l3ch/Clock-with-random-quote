@@ -1,3 +1,14 @@
+# About The Project
+
+This is a simple clock with a random background and random quote.
+Used the [unsplash api](https://source.unsplash.com/) to get random images for the background and the
+random Quote is generated using the [Quotable API](https://github.com/lukePeavey/quotable).I tried to make this responsive as possible.
+
+### Links
+
+-   Solution URL: [Github](https://github.com/adram3l3ch/Clock-with-random-quote)
+-   Live Site URL: [Netlify](https://adramelech-simple-clock.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
