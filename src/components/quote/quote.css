@@ -1,0 +1,33 @@
+.quote h3 {
+	font-size: 1.1rem;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+
+.quote p {
+	font-weight: 200;
+	font-style: italic;
+	font-size: 1.1rem;
+}
+
+.quote {
+	width: 70%;
+	letter-spacing: 0.05em;
+	color: white;
+}
+
+@media (max-width: 768px) {
+	.quote {
+		text-align: center;
+		width: 100%;
+	}
+}
+
+@media (max-width: 500px) {
+	.quote h3 {
+		font-size: 0.8rem;
+	}
+	.quote p {
+		font-size: 0.8rem;
+	}
+}
